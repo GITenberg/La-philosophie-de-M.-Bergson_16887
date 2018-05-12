@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6997'
     url: http://www.gutenberg.org/2009/agents/6997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16887#La-philosophie-de-M.-Bergson
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2005-10-16'
 gutenberg_type: Text
